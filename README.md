@@ -1,4 +1,5 @@
-# Sorting algorithms
+# Sorting Algorithm
+
 
 ## Files
 All of the following programs are written in C:
